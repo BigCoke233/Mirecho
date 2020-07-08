@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="banner.png">
-</p>
+<h1 align="center">Mirecho</h1>
 
 Language: [简体中文](README.md) | English
+
+> This project used to be Noter, the old repository is already archived. This will be rebuilt soon.
+
 ## Introduction
+
 This project was developed based on [Github-issues-blog](https://github.com/wuhaoworld/github-issues-blog). You can use it to write articles or take notes by creating issues. You just need to change some options before that.
 - Lightweight (Only 440KB after compressing)
 - Easy (Little options)
